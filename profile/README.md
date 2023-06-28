@@ -7,11 +7,15 @@
 
 # 👋 안녕하세요!
 <p>
-🙋‍♀️ 부트캠프 및 다른 교육에서 배우는 모드 스프링 과정을 기록할 예정입니다
+🙋‍♀️ 부트캠프에서 배우는 모드 스프링 과정을 기록할 예정입니다
   
-🌈 스프링이 모든 질문 사항은 issue에 남겨 주시며 감사하겠습니다
+🌈 스프링이 모든 질문 사항은 Discussions에 남겨 주시며 감사하겠습니다
   
-👩‍💻 유용한 리소스: 앞으로 생길 때 마다 추가할 예정입니다
+👩‍💻 유용한 리소스: 
+ <A href="https://docs.spring.io/spring-framework/reference/overview.html"> Spring 공식문서 </A>
+ <A href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"> HTTP response status codes </A>
+
+ 
   </p>
   
   # <b>Stacks</b>
